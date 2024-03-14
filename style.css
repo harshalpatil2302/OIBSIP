@@ -18,8 +18,7 @@ html {
 }
 
 body {
-    /* background: #212531; */
-    background: #fc4d02;
+    background: #fa9702;
     margin: 0;
 }
 
@@ -27,7 +26,6 @@ header {
     margin: 0px;
 }
 
-/* styling the navigation menu */
 a {
     text-decoration: none;
     color: #000;
